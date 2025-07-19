@@ -11,7 +11,7 @@ Here I share the professional learning milestones I’ve achieved through self-p
 **Duration:** 1 hour 38 minutes  
 **Verification Code:** DWOQbxoisM
 
-![Python Certificate - ITI](https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.jpg?raw=true)  
+![Python Certificate - ITI](https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate.jpg?raw=true)  
 [View Certificate (PDF)](https://github.com/Amr4924/My-Certifications/blob/main/Course_Certificate_En.pdf)
 
 ---
