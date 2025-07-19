@@ -1,7 +1,5 @@
 #  🏅  My Certifications
 
-# 🌼 My Certifications
-
 Welcome to my certification archive!  
 Here I share the professional learning milestones I’ve achieved through self-paced learning platforms and trusted institutions.
 
